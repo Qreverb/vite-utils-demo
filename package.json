@@ -1,5 +1,5 @@
 {
-  "name": "cbutils",
+  "name": "@qreverb/cbutils",
   "author": "Bruce jsonp@foxmail.com",
   "private": false,
   "version": "0.0.14",
@@ -17,12 +17,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/huangjiehai/vite-utils-demo.git"
+    "url": "git+https://github.com/Qreverb/vite-utils-demo.git"
   },
-  "homepage": "https://github.com/huangjiehai/vite-utils-demo",
+  "homepage": "https://github.com/Qreverb/vite-utils-demo",
   "bugs": {
-    "url": "https://github.com/huangjiehai/vite-utils-demo/issues",
-    "email": "jsonp@foxmail.com"
+    "url": "https://github.com/Qreverb/vite-utils-demo/issues",
+    "email": "quill-reverb0m@icloud.com"
   },
   "scripts": {
     "dev": "vite",
