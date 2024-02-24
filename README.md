@@ -4,11 +4,11 @@ A typescript utils library base on vite.
 ## Installation
 ```sh
 
-$ yarn add cbutils -S
+$ yarn add @qreverb/cbutils -S
 
 # or
 
-$ npm i cbutils -S
+$ npm i @qreverb/cbutils -S
 
 ```
 
